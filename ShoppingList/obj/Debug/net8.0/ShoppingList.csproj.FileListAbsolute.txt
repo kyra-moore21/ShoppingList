@@ -1,0 +1,14 @@
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.exe
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.deps.json
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.runtimeconfig.json
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.dll
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\bin\Debug\net8.0\ShoppingList.pdb
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.AssemblyInfo.cs
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.dll
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\refint\ShoppingList.dll
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.pdb
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.genruntimeconfig.cache
+C:\Users\kyram\source\repos\ShoppingList\ShoppingList\obj\Debug\net8.0\ref\ShoppingList.dll
